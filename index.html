@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Life History</title>
+    <link href="./output.css" rel="stylesheet">
+    <link rel="icon" type="image/x-icon" href="./favicon.ico" />
+    <style>
+        body {
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-size: cover;
+            background-position: center;
+            background-color: rgb(39 39 42);
+          }
+        @media (orientation: portrait ) {
+          body {
+              background-image: url('banner.jpg');
+          }
+        }
+        @media (max-width: 1563px) and (orientation: portrait ) {
+          body {
+              background-image: url('banner-1536.jpg');
+          }
+        }
+        
+        @media (max-width: 1280px) and (orientation: portrait ) {
+          body {
+            background-image: url('banner-1280.jpg');
+          }
+        }
+        
+        @media (max-width: 1024px) and (orientation: portrait ) {
+          body  {
+            background-image: url('banner-1024.jpg');
+          }
+        }
+        @media (max-width: 768px) and (orientation: portrait ) {
+          body  {
+            background-image: url('banner-768.jpg');
+          }
+        }
+        @media (max-width: 640px) and (orientation: portrait) {
+        body  {
+          background-image: url('banner-640.jpg');
+        }
+      }
+      @media (orientation: landscape ) {
+        body {
+          background-image: url('banner.jpg');
+        }
+      }
+      @media (max-width: 1563px) and (orientation: landscape ) {
+        body {
+          background-image: url('banner-landscape-1536.jpg');
+        }
+      }
+      
+      @media (max-width: 1280px) and (orientation: landscape ) {
+        body {
+          background-image: url('banner-landscape-1280.jpg');
+        }
+      }
+      
+      @media (max-width: 1024px) and (orientation: landscape ) {
+        body  {
+          background-image: url('banner-landscape-1024.jpg');
+        }
+      }
+      @media (max-width: 768px) and (orientation: landscape ) {
+      body  {
+        background-image: url('banner-landscape-768.jpg');
+        }
+      }
+      @media (max-width: 640px) and (orientation: landscape) {
+      body  {
+        background-image: url('banner-landscape-640.jpg');
+      }
+    }
+    </style>
+</head>
+<body class="bg-cover bg-center bg-fixed">
+    <div class="bg-zinc-800/90 p-4 rounded-lg shadow-lg ">
+      <!-- Avatar Image -->
+      <div class="h-32 w-32 rounded-full overflow-hidden mx-auto">
+        <img class="object-cover h-full w-full" src="podcast_cover.jpg" alt="Avatar">
+      </div>
+      <!-- Avatar Name -->
+      <div class="text-center">
+        <h2 class="text-xl font-semibold text-white mb-4">Life History Podcast</h2>
+        <p class="text-white text-base flex-nowrap">Copy this link into your podcast player:</p>
+            <a class="underline text-blue-500 hover:text-blue-700 visited:text-purple-500" href="https://slow-life-history.github.io/feed.xml">https://slow-life-history.github.io/feed.xml</a>
+
+        </div>
+    </div>
+</body>
+</html>

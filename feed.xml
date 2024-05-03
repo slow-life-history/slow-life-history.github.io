@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:podcast="https://podcastindex.org/namespace/1.0" version="2.0">
+	<channel>
+		<title>Life History Clips</title>
+		<description>Podcast about all things group selection</description>
+		<language>en-uk</language>
+		<link>https://slow-life-history.github.io</link>
+		<generator>Podcast RSS Generator (https://github.com/vpetersson/podcast-rss-generator)</generator>
+		<atom:link href="https://slow-life-history.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:owner>
+			<itunes:email>100501103+slow-life-history@users.noreply.github.com</itunes:email>
+		</itunes:owner>
+		<itunes:author>Life History</itunes:author>
+		<itunes:summary>Podcast about all things group selection</itunes:summary>
+		<itunes:category text="Religion" />
+		<itunes:image href="https://slow-life-history.github.io/podcast_cover.jpg" />
+		<item>
+			<pubDate>Fri, 26 Apr 2024 20:25:08 -0000</pubDate>
+			<title>Amish Takeover</title>
+			<description>A small clip</description>
+			<guid>https://slow-life-history.github.io/audio/Amish Takeover.m4a</guid>
+			<enclosure url="https://slow-life-history.github.io/audio/Amish Takeover.m4a" type="audio/m4a" length="994956" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>108</itunes:duration>
+			<link>https://slow-life-history.github.io</link>
+			<itunes:image href="https://slow-life-history.github.io/thumbnails/Amish Takeover.jpg" />
+			<podcast:transcript url="https://slow-life-history.github.io/transcripts/Amish Takeover.en-GB.vtt" type="text/vtt" />
+		</item>
+		<item>
+			<pubDate>Mon, 29 Apr 2024 21:11:34 -0000</pubDate>
+			<title>Atheists make bad Scientists</title>
+			<description>A small clip</description>
+			<guid>https://slow-life-history.github.io/audio/Atheists make bad Scientists.m4a</guid>
+			<enclosure url="https://slow-life-history.github.io/audio/Atheists make bad Scientists.m4a" type="audio/m4a" length="2520900" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>282</itunes:duration>
+			<link>https://slow-life-history.github.io</link>
+			<itunes:image href="https://slow-life-history.github.io/thumbnails/Atheists make bad Scientists.jpg" />
+			<podcast:transcript url="https://slow-life-history.github.io/transcripts/Atheists make bad Scientists.en-GB.vtt" type="text/vtt" />
+		</item>
+		<item>
+			<pubDate>Tue, 23 Apr 2024 20:07:13 -0000</pubDate>
+			<title>Deciduous trees &amp; slow life history</title>
+			<description>A small clip</description>
+			<guid>https://slow-life-history.github.io/audio/Deciduous trees &amp; slow life history.m4a</guid>
+			<enclosure url="https://slow-life-history.github.io/audio/Deciduous trees &amp; slow life history.m4a" type="audio/m4a" length="2733775" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>287</itunes:duration>
+			<link>https://slow-life-history.github.io</link>
+			<itunes:image href="https://slow-life-history.github.io/thumbnails/Deciduous trees &amp; slow life history.jpg" />
+			<podcast:transcript url="https://slow-life-history.github.io/transcripts/Deciduous trees &amp; slow life history.en-GB.vtt" type="text/vtt" />
+		</item>
+		<item>
+			<pubDate>Wed, 24 Apr 2024 22:48:49 -0000</pubDate>
+			<title>How can Christianity defend against a conquering religion</title>
+			<description>A small clip</description>
+			<guid>https://slow-life-history.github.io/audio/How can Christianity defend against a conquering religion.m4a</guid>
+			<enclosure url="https://slow-life-history.github.io/audio/How can Christianity defend against a conquering religion.m4a" type="audio/m4a" length="2687484" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>277</itunes:duration>
+			<link>https://slow-life-history.github.io</link>
+			<itunes:image href="https://slow-life-history.github.io/thumbnails/How can Christianity defend against a conquering religion.jpg" />
+			<podcast:transcript url="https://slow-life-history.github.io/transcripts/How can Christianity defend against a conquering religion.en-GB.vtt" type="text/vtt" />
+		</item>
+		<item>
+			<pubDate>Sun, 28 Apr 2024 22:19:03 -0000</pubDate>
+			<title>Negative Egalitarians</title>
+			<description>A small clip</description>
+			<guid>https://slow-life-history.github.io/audio/Negative Egalitarians.m4a</guid>
+			<enclosure url="https://slow-life-history.github.io/audio/Negative Egalitarians.m4a" type="audio/m4a" length="3997730" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>435</itunes:duration>
+			<link>https://slow-life-history.github.io</link>
+			<itunes:image href="https://slow-life-history.github.io/thumbnails/Negative Egalitarians.jpg" />
+			<podcast:transcript url="https://slow-life-history.github.io/transcripts/Negative Egalitarians.en-GB.vtt" type="text/vtt" />
+		</item>
+		<item>
+			<pubDate>Tue, 30 Apr 2024 19:39:49 -0000</pubDate>
+			<title>Selection is favouring individually-selected K-strategists</title>
+			<description>A small clip</description>
+			<guid>https://slow-life-history.github.io/audio/Selection is favouring individually-selected K-strategists.m4a</guid>
+			<enclosure url="https://slow-life-history.github.io/audio/Selection is favouring individually-selected K-strategists.m4a" type="audio/m4a" length="1581886" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>175</itunes:duration>
+			<link>https://slow-life-history.github.io</link>
+			<itunes:image href="https://slow-life-history.github.io/thumbnails/Selection is favouring individually-selected K-strategists.jpg" />
+			<podcast:transcript url="https://slow-life-history.github.io/transcripts/Selection is favouring individually-selected K-strategists.en-GB.vtt" type="text/vtt" />
+		</item>
+		<item>
+			<pubDate>Wed, 01 May 2024 19:55:53 -0000</pubDate>
+			<title>Shall the religious inherit the earth</title>
+			<description>A small clip</description>
+			<guid>https://slow-life-history.github.io/audio/Shall the religious inherit the earth.m4a</guid>
+			<enclosure url="https://slow-life-history.github.io/audio/Shall the religious inherit the earth.m4a" type="audio/m4a" length="2344564" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>264</itunes:duration>
+			<link>https://slow-life-history.github.io</link>
+			<itunes:image href="https://slow-life-history.github.io/thumbnails/Shall the religious inherit the earth.jpg" />
+			<podcast:transcript url="https://slow-life-history.github.io/transcripts/Shall the religious inherit the earth.en-GB.vtt" type="text/vtt" />
+		</item>
+		<item>
+			<pubDate>Thu, 02 May 2024 17:06:32 -0000</pubDate>
+			<title>Specialists will suffer</title>
+			<description>A small clip</description>
+			<guid>https://slow-life-history.github.io/audio/Specialists will suffer.m4a</guid>
+			<enclosure url="https://slow-life-history.github.io/audio/Specialists will suffer.m4a" type="audio/m4a" length="1269604" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>140</itunes:duration>
+			<link>https://slow-life-history.github.io</link>
+			<itunes:image href="https://slow-life-history.github.io/thumbnails/Specialists will suffer.jpg" />
+			<podcast:transcript url="https://slow-life-history.github.io/transcripts/Specialists will suffer.en-GB.vtt" type="text/vtt" />
+		</item>
+		<item>
+			<pubDate>Thu, 25 Apr 2024 21:18:44 -0000</pubDate>
+			<title>What causes gray hair</title>
+			<description>A small clip</description>
+			<guid>https://slow-life-history.github.io/audio/What causes gray hair.m4a</guid>
+			<enclosure url="https://slow-life-history.github.io/audio/What causes gray hair.m4a" type="audio/m4a" length="1051805" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>106</itunes:duration>
+			<link>https://slow-life-history.github.io</link>
+			<itunes:image href="https://slow-life-history.github.io/thumbnails/What causes gray hair.jpg" />
+			<podcast:transcript url="https://slow-life-history.github.io/transcripts/What causes gray hair.en-GB.vtt" type="text/vtt" />
+		</item>
+		<item>
+			<pubDate>Sat, 27 Apr 2024 22:27:33 -0000</pubDate>
+			<title>Women overwhelming want highly Extraverted offspring</title>
+			<description>A small clip</description>
+			<guid>https://slow-life-history.github.io/audio/Women overwhelming want highly Extraverted offspring.m4a</guid>
+			<enclosure url="https://slow-life-history.github.io/audio/Women overwhelming want highly Extraverted offspring.m4a" type="audio/m4a" length="2776709" />
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:duration>312</itunes:duration>
+			<link>https://slow-life-history.github.io</link>
+			<itunes:image href="https://slow-life-history.github.io/thumbnails/Women overwhelming want highly Extraverted offspring.jpg" />
+			<podcast:transcript url="https://slow-life-history.github.io/transcripts/Women overwhelming want highly Extraverted offspring.en-GB.vtt" type="text/vtt" />
+		</item>
+	</channel>
+</rss>
